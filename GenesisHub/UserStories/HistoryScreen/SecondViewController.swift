@@ -2,7 +2,7 @@
 //  SecondViewController.swift
 //  GenesisHub
 //
-//  Created by Anton Kovalov on 2/1/19.
+//  Created by Anton Kovalov on 2/12/19.
 //  Copyright © 2019 Anton Kovalov. All rights reserved.
 //
 
